@@ -1,3 +1,3 @@
 [workspace]
-members = ["ch1/hello_cargo", "ch2/guessing_game"]
+members = ["ch1/hello_cargo", "ch2/guessing_game", "ch3/branches", "ch3/fibonacci", "ch3/functions", "ch3/loops", "ch3/variables"]
 resolver = "2"
